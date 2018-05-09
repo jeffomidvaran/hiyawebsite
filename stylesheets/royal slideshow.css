@@ -1,0 +1,6 @@
+#gallery-1 {
+  width: auto;
+  -webkit-user-select: none;
+  -moz-user-select: none;  
+  user-select: none;
+}
